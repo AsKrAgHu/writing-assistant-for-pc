@@ -140,4 +140,4 @@ covered in the Troubleshooting section.
 
 <p align="center"><a href="https://share.google/At7G63tnMTgEQNALr"><b>📖 Instructions — AI Writing Assistant (2026)</b></a></p>
 
-<p align="center"><sub>Shared under the MIT License · Updated 2026-10-25</sub></p>
+<p align="center"><sub>Shared under the MIT License · Updated 2026-10-26</sub></p>
